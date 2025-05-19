@@ -1,4 +1,4 @@
-# � HR Insights Dashboard: Power BI-Powered Employee Analytics  
+#  HR Insights Dashboard: Power BI-Powered Employee Analytics  
 
 *A dynamic, interactive Power BI dashboard designed to deliver actionable HR insights—focusing on employee satisfaction, department trends, employment status, and salary distributions.*  
 
@@ -73,7 +73,7 @@ HR departments often lack a **centralized, visual platform** to answer critical 
 ---
 
 ## 📷 Screenshot  
-![HR Dashboard Preview](https://via.placeholder.com/800x500?text=Power+BI+Dashboard+Screenshot)  
+![HR Dashboard Preview](https://github.com/MANAS2903/HR-Analytics-PowerBI/blob/main/Snapshot%20of%20Dashboard.png) 
 *Interactive Power BI dashboard showing KPIs, satisfaction trends, and gender-based analytics.*  
 
 ---
@@ -85,4 +85,3 @@ HR departments often lack a **centralized, visual platform** to answer critical 
 4. Explore filters and drill-downs for granular insights.  
 
 ---
-**🌟 Pro Tip:** Customize visuals and DAX measures to align with your organization’s HR policies!  
