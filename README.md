@@ -1,4 +1,4 @@
-#  HR Insights Dashboard: Power BI-Powered Employee Analytics  
+#  HR Metrics & Predictive Analytics
 
 *A dynamic, interactive Power BI dashboard designed to deliver actionable HR insights—focusing on employee satisfaction, department trends, employment status, and salary distributions.*  
 
